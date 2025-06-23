@@ -1,4 +1,4 @@
 # firstgithub_repo
 This is my first github repository
 <br>
-Auther- Ansh Verma
+Auther- Ansh Verma (Student)
